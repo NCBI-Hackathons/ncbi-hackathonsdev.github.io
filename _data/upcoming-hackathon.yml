@@ -10,15 +10,18 @@
   year: "2019"
   title: "U-Hack Med at UTSW"
   link: "https://www.u-hackmed.org/"
+  due: "duedate"
   
 - month: "November"
   day: "4-6"
   year: "2019"
   title: "Virus Hunting in the Cloud, Part 2! -- University of Maryland"
   link: "#"
+  due: "duedate"
 
 - month: "December"
   day: "24-27"
   year: "2019"
   title: "Test Entry"
   link: "#"
+  due: "duedate"
